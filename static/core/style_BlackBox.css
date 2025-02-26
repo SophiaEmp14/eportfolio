@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Pinstripe:ital@0;1&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Pinstripe:ital@0;1&family=Poiret+One&display=swap');
+
+
+body{
+	background-color:#FFE4BB;
+	max-width: 700px;
+	margin:auto;
+}
+.qr{
+	width: 30%
+}
+
+img, video {
+	width: 75%;
+	display: block;
+	margin: 25px auto;
+	border-style: dashed;
+	border-color: #0701B2;
+	border-width: thick;
+}
+
+h1,h2,h3{
+	font-family: "Alumni Sans Pinstripe", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+	font-weight: bold;
+}
+
+h1 {
+	color:blue;
+	font-size: 100px;
+}
+
+h3{
+	color:#0701B2;
+	font-size: 40px;
+}
+
+h2{
+	color:#0701B2;
+	font-size: 30px;
+}
+
+p{
+	 font-family: "Poiret One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+	font-weight: bold;
+}
+
+table{
+	margin: 25px auto;
+}
